@@ -1,8 +1,21 @@
 Installing WSL2 ubuntu
+https://www.youtube.com/watch?v=zZf4YH4WiZo
 go search feat
 enable windows subsystems for linux and virtual machine platform
+restart
+after restarting open cmd, try to press soomethign to update wsl
+wsl --status
+wsl --upate
+install ubuntu on microsoft store
+then open, it will open a tab in cmd and install.
+enter unix name
+enter pass
+go to home using cd ..
+cd ../
+ls
+cd mnt
+ls
+thats just for testing the folders, u can switch to ubuntu using cmd now on upper left corner.
 
-install virtualbox
-install ubuntu
 get ready to clone the version 18 in github
 make sure github linked to your command line first.
